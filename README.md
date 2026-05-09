@@ -1,36 +1,42 @@
-<h1>Hi, I'm Ishola !</h1>
+# Hi, I'm Ishola 👋
 
-<h2>👨‍💻 Cyber Security (SOC Analyst ) Project :</h2>
+Junior Full Stack Developer building AI-powered workflow automation tools and operational software.
 
-[Active Directory Home Lab] 
+I transitioned into development from Stock Condition Surveying, where I worked on UK housing inspections, HHSRS reporting, and property condition workflows. After seeing how slow and repetitive many operational processes were, I started building tools to improve them.
 
-<h2>📺 Popular YouTube Videos</h2>
+## What I'm Building
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/)
-- [Is WGU Legit?](https://www.youtube.com/)
+- 📱 Mobile-first survey workflow systems
+- 🤖 AI-assisted defect reporting tools
+- 🏠 PropTech automation workflows
+- 📝 AI-powered survey report generation
+- 📸 Inspection image management workflows
+- ⚡ Internal operational tooling
 
-<h2> 🤳 Connect with me 🤳:</h2>
+## Current Tech Stack
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- React
+- TypeScript
+- Supabase
+- Next.js
+- GitHub
+- Claude
+- Cursor
+- Lovable
+- AI-assisted development workflows
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Current Focus
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building AI-powered operational tools
+- Workflow automation
+- Full stack product development
+- PropTech systems
+- AI-native product workflows
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before moving into development, I worked as a Stock Condition Surveyor inspecting UK housing stock and producing condition reports against HHSRS standards. That operational experience heavily influences the type of products and systems I build today.
+
+## Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL]
