@@ -39,4 +39,4 @@ Before moving into development, I worked as a Stock Condition Surveyor inspectin
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/ishola-elusade
