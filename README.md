@@ -8,53 +8,51 @@ Currently building AI-powered operational tooling for property inspections and w
 
 ## What I'm Building
 
-- 📱 Mobile-first survey workflow systems
-- 🤖 AI-assisted defect reporting tools
-- 🏠 PropTech automation workflows
-- 📝 AI-powered survey report generation
-- 📸 Inspection image management workflows
-- ⚡ Internal operational tooling
+* 📱 Mobile-first operational systems
+* 🤖 AI-assisted workflow tools
+* 🏠 PropTech automation platforms
+* 📝 Operational reporting systems
+* ⚡ Workflow automation software
+* 📊 Field operations tooling
 
 ## Current Tech Stack
 
-- React
-- TypeScript
-- Supabase
-- Next.js
-- GitHub
-- Claude
-- Cursor
-- Lovable
-- AI-assisted development workflows
+* React
+* TypeScript
+* Supabase
+* Next.js
+* GitHub
+* Claude
+* Cursor
+* Lovable
+* AI-assisted development workflows
 
 ## Current Focus
 
-- Building AI-powered operational tools
-- Workflow automation
-- Full stack product development
-- PropTech systems
-- AI-native product workflows
+* AI-powered operational software
+* Workflow automation
+* Full stack product development
+* PropTech systems
+* Operational tooling
+* Mobile-first applications
 
 ## Background
 
-Before moving into development, I worked as a Stock Condition Surveyor inspecting UK housing stock and producing condition reports against HHSRS standards. That operational experience heavily influences the type of products and systems I build today.
+Before moving into development, I worked as a Stock Condition Surveyor inspecting UK housing stock and producing condition reports against HHSRS standards.
+
+That operational experience heavily influences the systems and workflows I build today.
 
 ## Featured Project
 
 ### AI Survey Workflow Platform
-AI-powered mobile-first workflow platform for UK housing inspections and operational reporting.
 
-Features include:
-- AI defect report generation
-- Voice-to-text notes
-- Survey workflow automation
-- GDPR retention controls
-- PWA offline support
-- Mobile inspection tooling
+Mobile-first operational workflow platform designed for property inspections, reporting workflows, and field operations.
 
-Tech:
+Focused on improving operational efficiency, reducing repetitive administration, and modernising reporting processes using AI-assisted tooling and workflow automation.
+
+Tech Stack:
 React • TypeScript • Supabase • Gemini AI • Tailwind • Lovable
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ishola-elusade
+* LinkedIn: https://www.linkedin.com/in/ishola-elusade
